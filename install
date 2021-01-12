@@ -28,7 +28,7 @@ banner () {
     ${BLUE}│${RED}░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄${ORANGE}░▄▄▄${RED}░${GREEN}▀▀█░░█░░░█░░█░░░█▀▀░░${BLUE}│
     ${BLUE}│${RED}░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀${ORANGE}░░░░░${GREEN}▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░${BLUE}│
     ${BLUE}└──────────────────────────────────────────────────┘
-    ${BLUE}[${RED}*${BLUE}] ${ORANGE}By- DARKHEAVEN ${RED}//${ORANGE} darkholex"
+    ${BLUE}[${RED}*${BLUE}] ${ORANGE}CODED BY- DARKHEAVEN ${RED}//${ORANGE} DARKHOLE"
 }
 
 ## Script Termination
