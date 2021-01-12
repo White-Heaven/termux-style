@@ -1,5 +1,5 @@
 # termux-style
-Change font change Themes
+##Change font change Themes
 
 `•git clone https://github.com/White-Heaven/termux-style.git `
 
