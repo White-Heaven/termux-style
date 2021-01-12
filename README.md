@@ -5,7 +5,7 @@
 ## Change THE directory
 `•cd termux-style `
 ## And Permission The Tool
-## 👇👇👇👇👇
+## 👇👇👇
 `•chmod +x * `
 ## Run Command
  `•bash install `
